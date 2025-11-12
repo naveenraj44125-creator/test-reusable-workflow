@@ -68,5 +68,8 @@ View deployment status:
 
 - Main Workflow Repository: https://github.com/naveenraj44125-creator/lamp-stack-lightsail
 - Reusable Workflows Documentation: See REUSABLE_WORKFLOWS.md in main repo
-# Deployment Test
+
+## 🔄 Recent Updates
+
+- **Fixed Node.js deployment**: Proper service startup, reverse proxy configuration, and dependency installation
 
