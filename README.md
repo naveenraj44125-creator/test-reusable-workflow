@@ -72,4 +72,5 @@ View deployment status:
 ## 🔄 Recent Updates
 
 - **Fixed Node.js deployment**: Proper service startup, reverse proxy configuration, and dependency installation
+- **Improved verification**: Better connectivity testing and service restart handling
 
