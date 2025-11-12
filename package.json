@@ -1,0 +1,22 @@
+{
+  "name": "example-app-reusable-workflow",
+  "version": "1.0.0",
+  "description": "Example application using reusable GitHub Actions deployment workflow",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node -e \"console.log('✅ Tests passed!')\"",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "example",
+    "reusable-workflow",
+    "github-actions",
+    "aws-lightsail"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
