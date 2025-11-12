@@ -2,6 +2,8 @@
 
 This is an example application that demonstrates how to use the reusable deployment workflow from the `lamp-stack-lightsail` repository.
 
+**Status:** 🚀 Ready for deployment!
+
 ## 🚀 Quick Start
 
 1. **Create a new GitHub repository** with these files
