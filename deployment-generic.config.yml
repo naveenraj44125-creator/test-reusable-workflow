@@ -2,11 +2,11 @@
 # This file configures the reusable deployment workflow
 
 aws:
-  region: us-east-1  # Change to your AWS region
+  region: us-east-1
 
 lightsail:
-  instance_name: example-app-instance  # Change to your instance name
-  static_ip: 1.2.3.4  # Change to your static IP
+  instance_name: example-app-instance
+  static_ip: 100.29.239.9
 
 application:
   name: example-app
