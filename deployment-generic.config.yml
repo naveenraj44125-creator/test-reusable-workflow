@@ -5,8 +5,8 @@ aws:
   region: us-east-1
 
 lightsail:
-  instance_name: example-app-instance
-  static_ip: 100.29.239.9
+  instance_name: example-app-instance-v2
+  static_ip: 18.233.41.113
 
 application:
   name: example-app
